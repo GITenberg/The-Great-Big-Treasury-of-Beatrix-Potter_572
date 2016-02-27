@@ -1,0 +1,37 @@
+_repo: The-Great-Big-Treasury-of-Beatrix-Potter_572
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Heelis, Beatrix
+    - Potter, Helen Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Short stories'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, English'
+- !lcc 'PR'
+tableOfContents: The tale of Peter Rabbit -- The tailor of Gloucester -- The tale
+  of Squirrel Nutkin -- The tale of Benjamin Bunny -- The tale two bad mice -- The
+  tale of Mrs. Tiggy-Winkle -- The pie and the patty-pan -- The tale of Mr. Jeremy
+  Fisher -- The story of a fierce bad rabbit -- The story of Miss Moppet -- The tale
+  of Tom Kitten -- The tale of Jemima Puddle-Duck -- The roly-poly pudding -- The
+  tale of the Flopsy bunnies -- The tale of Mrs. Tittlemouse -- The tale of Timmy
+  Tiptoes -- The tale of Mr. Tod -- The tale of Pigling Bland -- Ginger and Pickles.
+title: The Great Big Treasury of Beatrix Potter
+url: http://www.gutenberg.org/ebooks/572
