@@ -1,5 +1,5 @@
 _repo: The-Great-Big-Treasury-of-Beatrix-Potter_572
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,6 +32,7 @@ subjects:
 - !lcc 'PZ'
 - !lcsh 'Children''s stories, English'
 - !lcc 'PR'
+- GITenberg
 tableOfContents: The tale of Peter Rabbit -- The tailor of Gloucester -- The tale
   of Squirrel Nutkin -- The tale of Benjamin Bunny -- The tale two bad mice -- The
   tale of Mrs. Tiggy-Winkle -- The pie and the patty-pan -- The tale of Mr. Jeremy
